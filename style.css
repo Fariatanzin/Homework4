@@ -1,0 +1,45 @@
+.heading{
+   color: #622F22;
+   background-color: aquamarine;
+   font-size: 20px;
+   width: 100%;
+   text-decoration: underline;
+}
+
+.details{
+       color:#FF0000;
+       background-color: aquamarine;
+       width: 200px;
+
+       
+.img{
+   float: left;
+   width: 30%;
+   border-radius: 30px;
+   padding: 17px;
+}
+ 
+ 
+}
+h3{
+   font-size: 30px;
+   background-color: aquamarine;
+   text-transform: capitalize;
+   text-decoration-thickness: 1px;
+}
+
+p{
+   font-size: 20px;
+   text-align: justify;
+   text-align-last: center;
+   line-height: 1.5;
+   text-transform: uppercase;
+ 
+ }
+ 
+ p::first-letter{
+              font-size: 40px;
+              color: #8C001A;
+ }
+ 
+ 
